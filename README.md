@@ -49,7 +49,6 @@ This project is the fifth project of the **"AWS AI & ML Scholarship"** program.
 ### Section 3: Deployment and Monitoring
 
 #### Deployment
-- The trained model was deployed as a REST API using AWS SageMaker's **endpoint deployment** feature.
 - AWS Lambda functions were used to trigger inference and serve predictions efficiently.
 
 #### Monitoring and Maintenance
